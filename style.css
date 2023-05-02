@@ -1,0 +1,37 @@
+body {
+    font-family:'Special Elite', cursive;
+    background:#89e3ed;
+}
+
+.header_div {
+    background:#89e3ed;
+    color:#349efa;
+}
+
+.header_div p {
+    color:#349efa;
+}
+
+#button {
+    margin-top:30px;
+    width:110px;
+    height:25px;
+    padding-top:3.5px;
+    background-color:#349efa;
+    border-radius:5px;
+    border-width:1.5px;
+}
+
+.copy_right_footer {
+    position:fixed;
+    color:#349efa;
+    bottom:0;
+    width:100%;
+    font-size:18px;
+    line-height:3;
+    text-align:center;
+}
+
+img {
+    margin-bottom:50px;
+}
